@@ -36,7 +36,7 @@ export const BANK_NAMES = {
 // รวมลิงก์รูปภาพไว้ที่นี่ เพื่อให้แก้ไขง่าย
 export const IMAGES = {
   // รูปพื้นหลังของโลโก้ด้านบน (Hero Logo)
-  HERO_BG: "https://24heng.com/storage/images/logo.png",
+  HERO_BG: "https://xn--24-5qi8lod.com/storage/images/logo.png",
   
   // รูปแบนเนอร์โปรโมชั่นด้านล่าง
   PROMO_BANNER: "https://24iboom-storeate.sgp1.digitaloceanspaces.com/24iboom-spaces/images/JWYnUMJ0QnROVT2dOMF472azmznuj4Y2q79PTsT9.jpg"
