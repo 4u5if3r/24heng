@@ -6,7 +6,7 @@ const ActionButtons: React.FC = () => {
   return (
     <div className="px-4 space-y-3 max-w-sm mx-auto mb-6">
       <a 
-        href="https://24heng.com/u1ZU6I537441"
+        href="https://24heng.org/u1ZU6I537441"
         target="_blank"
         rel="noopener noreferrer"
         className="w-full bg-gradient-to-r from-cyan-400 to-emerald-400 hover:from-cyan-300 hover:to-emerald-300 text-black font-bold py-3 rounded-lg shadow-[0_0_15px_rgba(52,211,153,0.5)] flex items-center justify-center gap-2 transition-all active:scale-95 decoration-0"
